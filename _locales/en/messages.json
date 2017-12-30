@@ -1,0 +1,23 @@
+{
+  
+  "extensionName": {
+    "message": "Tabs Tools",
+    "description": "Adds a Tabs Tools to context menu."
+  },
+
+  "extensionDescription": {
+    "message": "Tabs Tools",
+    "description": "Adds a Tabs Tools to context menu."
+  },
+
+  "menuItemNewTab": {
+    "message": "New Tab",
+    "description": "Opens a new tab."
+  },
+
+  "menuItemDuplicateTab": {
+    "message": "Duplicate Tab",
+    "description": "Duplicates the current tab."
+  }
+
+}
